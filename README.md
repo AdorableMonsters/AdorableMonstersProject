@@ -13,7 +13,7 @@ First, you need download and install the Python, Pygame and Numpy.
 - Download Python 3.5 and Install: https://www.python.org/downloads/
 - Download Pygame and Install: http://www.pygame.org/download.shtml
 - Download Numpy and Install: https://pypi.python.org/pypi/numpy
-- Download the project Adorable Monsters. File .zip
+- Download the project Adorable Monsters. zip file
 
 
 #Install Pygame and Numpy
