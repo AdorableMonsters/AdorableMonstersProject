@@ -25,7 +25,7 @@ from py import words
 
 FPS=50
 MODE=0
-LANG=1 # 0 - English | 1 - Portuguese
+LANG=0 # 0 - English | 1 - Portuguese
 
 #_______________________________________________________________________________
 class AllMunition(pygame.sprite.RenderUpdates):
